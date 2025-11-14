@@ -1,6 +1,6 @@
 {
     "name": "bug-arena",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dependencies": {
         "device": "*",
         "arcade-extension-utils": "github:riknoll/arcade-extension-utils#v0.0.1",
